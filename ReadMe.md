@@ -1,26 +1,39 @@
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
+
 <h1>
   <span style="color:#22D3EE;">Hi there! I'm Prabukumar 👋</span>
 </h1>
+
 <br/>
+
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&width=500&lines=Cloud+%26+AI+Enthusiast;Python+%26+Java+Developer;Microsoft+Azure+Developer;Machine+Learning+Explorer;Lifelong+Learner;NSS+Volunteer" alt="Typing SVG" />
+
 <br/><br/>
+
 <a href="https://github.com/Prabukumar710">
 <img src="https://img.shields.io/badge/GitHub-Prabukumar710-181717?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
+
 <a href="mailto:your-prabukumarv.prof@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=Prabukumar710&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS"/>
+
 </td>
+
 <td width="40%" align="center" valign="middle">
+
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Modern%20Work%20Environment.gif" width="320"/>
+
 </td>
 </tr>
 </table>
+
 ---
 
 # 💫 About Me
@@ -224,6 +237,6 @@ Actively participated in community development programs and social welfare camps
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0D1117&height=120&section=footer"/>
+<img src=<Thanks for visiting my profile!>"https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0D1117&height=120&section=footer"/>
 
 </p>
