@@ -237,6 +237,6 @@ Actively participated in community development programs and social welfare camps
 
 <p align="center">
 
-<img src=<Thanks for visiting my profile!>"https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0D1117&height=120&section=footer"/>
 
 </p>
