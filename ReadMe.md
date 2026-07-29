@@ -23,6 +23,23 @@ Hi 👋 I'm <b>PRABUKUMAR V</b>
 
 ---
 
+<a href="https://github.com/Prabukumar710">
+        <img src="https://img.shields.io/badge/GitHub-Prabukumar710-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+      </a>
+      <a href="mailto:your-prabukumarv.prof@gmail.com.com">
+        <img src="https://img.shields.io/badge/Email-Contact_Me-C0C0C0?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+      </a>
+      <br/><br/>
+      <img src="https://komarev.com/ghpvc/?username=Prabukumar710&style=flat-square&color=C0C0C0&label=Profile+Views" alt="Profile Views" />
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Modern%20Work%20Environment.gif" alt="Developer Activity" width="320" />
+    </td>
+  </tr>
+</table>
+
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
