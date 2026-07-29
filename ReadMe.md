@@ -1,29 +1,11 @@
-<!-- ========================================================= -->
-<!--                  GITHUB PROFILE README                     -->
-<!--                 Created for PRABUKUMAR V                  -->
-<!-- ========================================================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,40:3B82F6,70:22D3EE,100:8B5CF6&text=PRABUKUMAR%20V&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Cloud%20%7C%20AI%20%7C%20Azure%20%7C%20Python%20Developer&descAlignY=58&animation=fadeIn" width="100%">
-</p>
-
-<h1 align="center">
-Hi 👋 I'm <b>PRABUKUMAR V</b>
-</h1>
-
-<h3 align="center">
-☁️ Cloud Computing • 🤖 Artificial Intelligence • 💻 Python Developer • ☁️ Microsoft Azure
-</h3>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Cloud+Computing+Enthusiast;Microsoft+Azure+Developer;Python+%26+Java+Developer;Machine+Learning+Explorer;Lifelong+Learner;NSS+Volunteer" />
-
-</p>
-
----
-
-<a href="https://github.com/Prabukumar710">
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h1>Hi there! I'm Prabukumar 👋</h1>
+      <br/>
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=C0C0C0&width=400&lines=Cloud+%26+AI+Enthusiast;Python+%26+Java+Developer;Lifelong+Learner;NSS+Volunteer" alt="Typing SVG" />
+      <br/><br/>
+      <a href="https://github.com/Prabukumar710">
         <img src="https://img.shields.io/badge/GitHub-Prabukumar710-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
       </a>
       <a href="mailto:your-prabukumarv.prof@gmail.com.com">
@@ -38,11 +20,7 @@ Hi 👋 I'm <b>PRABUKUMAR V</b>
   </tr>
 </table>
 
-
-
-## 🌐 Connect With Me
-
-<p align="center">
+---
 
 ### 💫 About Me
 I am a highly motivated Information Technology student passionate about **Artificial Intelligence, Cloud Computing, and Data Science**. I specialize in building and optimizing intelligent applications using Microsoft Azure, Python, and Java. 
